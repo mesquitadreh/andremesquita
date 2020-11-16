@@ -1,0 +1,61 @@
+body {}
+
+.section-1 {margin-top:40px;}
+
+.section-1 .headline {width:100%; max-width:540px; margin:0 auto;}
+.section-1 .headline img {width:100%;}
+
+/*Headline */
+.section-1 .capa-ebook {text-align:center; margin-bottom:-290px;}
+.section-1 .capa-ebook img {width:100%; max-width:350px; margin-top:80px;}
+
+.section-1 form {margin-top:200px; background:#fff; padding:10px; border-radius:10px;box-shadow: 6px 5px 10px 2px rgba(0,0,0,0.29);}
+.section-1 form label {text-align: center;  text-transform: uppercase;}
+.section-1 form input[type="email"] {width:100%; border-radius:0px;}
+.section-1 form input[type="submit"] {width:100%; margin-top:-5px; font-size:2rem; color:#fff; font-weight:bold; height:60px; border-radius:20px; border:8px solid #aa0000ff; background:#e94c57ff;}
+
+.div {}
+.div img {width:100%; margin-top:-550px;}
+
+.section-2 {background:#a6d2f0ff; padding:50px; margin-top:-10px;  text-align: center; }
+.section-2 p {padding:0px; color:#fff; text-transform:uppercase;}
+
+/* For devices larger than 1260px */
+@media (max-width:1260px) {
+
+.section-1 .capa-ebook img {max-width:220px; margin-top:10px;}
+.section-1 form {margin-top:50px;}
+
+.div {margin-top:120px;}
+
+.section-2 {}
+.section-2 p {margin-top:50px; font-size:1.3rem;}
+
+}
+
+/* For devices larger than 840px */
+@media (max-width:840px) {
+
+.section-1 .capa-ebook img {max-width:220px; margin-top:10px;}
+.section-1 form {margin-top:50px;}
+
+.div {margin-top:120px;}
+
+.section-2 {height:10vh;}
+.section-2 p {margin-top:50px; font-size:1.3rem;}
+
+}
+
+/* For devices larger than 549px */
+@media (max-width: 549px) {
+
+.section-1 .capa-ebook img {max-width:220px; margin-top:10px;}
+.section-1 form {padding:20px;margin-top:350px;}
+
+.div {margin-top:-620px;}
+
+.section-2 {}
+.section-2 p {padding:0px; font-size:1.3rem;}
+
+
+}

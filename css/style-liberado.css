@@ -1,0 +1,85 @@
+
+body {font-family: 'Ubuntu', sans-serif;}
+
+.section-1 {width:100%; height:auto; padding-bottom:50px; background: rgb(0,160,255);
+background: linear-gradient(180deg, rgba(0,160,255,1) 37%, rgba(175,221,233,1) 100%);}
+.section-1 .icon-liberado { width:520px; margin:0 auto; }
+.section-1 .icon-liberado img {width:100%; margin-top:40px;}
+
+.section-1 h2 {text-align: center; color:#fff;}
+.section-1 .seta {margin:0 auto; max-width:150px; text-align: center; margin-top:10px;}
+.section-1 .seta img {width:100%;}
+
+.section-1 h3 {color:#fff; text-align: left; font-weight: bold; margin:0;}
+.section-1 p {color:#fff; text-align: left; padding:0; margin:0; font-size:3rem;}
+
+.section-1 .botao {width:720px; margin:0 auto;}
+.section-1 .botao  a {text-align: center;}
+.section-1 .botao  a img {width:100%; margin-top:30px;}
+
+.section-2 {padding:30px;}
+.section-2 .titulo {text-align: center; margin:0 auto; max-width:440px; margin-top:40px;}
+.section-2 .titulo img {width: 100%;}
+
+.section-2 .icons {text-align: center; }
+.section-2 .icons img {width:100%; max-width: 360px; margin-top:60px;}
+
+.section-2 .botao {width:720px; margin:0 auto;}
+.section-2 .botao  a {text-align: center;}
+.section-2 .botao  a img {width:100%; margin-top:50px;}
+
+.section-3 {padding:30px; padding-bottom:80px; background:#2fa8dfff}
+
+.section-3 .titulo {text-align: center; margin:0 auto; max-width:640px; margin-top:40px;}
+.section-3 .titulo img {width: 100%;}
+
+.section-3 p {color:#fff; font-size:2rem; width:100%; max-width:780px; margin:0 auto; margin-top:30px;}
+
+.section-4 {padding:30px; padding-bottom:60px;}
+
+.section-4 .titulo {width:100%; max-width:640px; margin-top:40px;}
+.section-4 .titulo img {width: 100%;}
+.section-4 p {font-size:2rem; font-weight: bold;}
+
+.section-4 .box {text-align: center;}
+.section-4 .box a {}
+.section-4 .box a img {width: 100%; max-width:367px; }
+
+.section-5 {padding:30px; background:#f9f9f9ff;}
+
+.section-5 .titulo {width:100%; max-width:640px; margin-top:40px;}
+.section-5 .titulo img {width: 100%;}
+
+.section-5 .botao {width:720px; margin:0 auto;}
+.section-5 .botao  a {text-align: center;}
+.section-5 .botao  a img {width:100%; margin-top:50px;}
+
+/* For devices larger than 840px */
+@media (max-width: 840px) {
+
+.section-1 .icon-liberado { width:100%; }
+.section-1 .botao {width:100%;}
+.section-1 .seta {width:90px;}
+.section-1 h2 {font-size:2.6rem;}
+.section-1 h3 {}
+.section-1 p {line-height: normal; font-size: 2rem; margin-top: 15px;}
+
+.section-2 .botao {width:100%;}
+
+.section-5 .botao {width:100%;}
+
+}
+
+
+/* For devices larger than 414px */
+@media (max-width: 549px) {
+
+.section-1 .icon-liberado { width:100%; }
+.section-1 .botao {width:100%;}
+.section-1 .seta {width:90px;}
+
+.section-2 .botao {width:100%;}
+
+.section-5 .botao {width:100%;}
+
+}

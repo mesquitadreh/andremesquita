@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="269.50571mm"
+   height="155.52773mm"
+   viewBox="0 0 269.50571 155.52773"
+   version="1.1"
+   id="svg1015"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="fundo.svg">
+  <style
+     id="style1017"></style>
+  <defs
+     id="defs1009" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="532.21208"
+     inkscape:cy="427.35736"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="722"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1012">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(34.981113,-35.095032)">
+    <path
+       id="path458"
+       style="fill:#517fc5;fill-opacity:1;fill-rule:evenodd;stroke-width:1.14292"
+       d="m 234.52458,170.87116 c -131.01467,0 -207.416711,-61.95692 -269.505691,-99.226939 V 226.45192 H 234.52458 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect144"
+       style="fill:#a6d2f0;fill-opacity:1;fill-rule:evenodd;stroke-width:1.14292"
+       d="m 234.52458,174.57532 c -131.01467,0 -207.416711,-61.95691 -269.505691,-99.226933 V 226.45192 H 234.52458 Z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
